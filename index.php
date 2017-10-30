@@ -29,11 +29,13 @@
               <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#">To be ...</a>
+              <a class="nav-link disabled" href="#">To be developed</a>
             </li>
+            <!--
             <li class="nav-item">
               <a class="nav-link disabled" href="#">To be ...</a>
             </li>
+          -->
           </ul>
           <!--
           <form class="form-inline mt-2 mt-md-0">
@@ -105,21 +107,21 @@
         <!-- Three columns of text below the carousel -->
         <div class="row">
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+            <img class="rounded-circle" src="http://www.apeirosolutions.com/images/img_data-validation_top_left.png" alt="Generic placeholder image" width="140" height="140">
+            <h2>Data Validation</h2>
+            <p>Essential to know the attribute whether it should be dropped out when it missed a lot of data for each tuple. Those remaining attribute should also be valid where contain null variable should be fill in a meaningful result for further data mining process.</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
-            <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+            <img class="rounded-circle" src="https://blogs.sas.com/content/sascom/files/2014/12/94802938.jpg" alt="Generic placeholder image" width="140" height="140">
+            <h2>Data Visualization</h2>
+            <p>Presentation by plotting and graph for huge amount of data is good for human beings perception and convenient for us to realize the trend of the data. It assists a lot for people to make first prediction and find out some insight before data mining.</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <img class="rounded-circle" src="http://www.bizoutsourcingsolutions.co.uk/images/icons/Data-Entry-Processing-Services-icon_003.jpg" alt="Generic placeholder image" width="140" height="140">
+            <h2>Data Mining</h2>
+            <p>Supervised and Unsupervised data mining algorithm should be applied based on the dataset whether it provides the sampling result of what we aim to predict. Cross validation has to be used to check with the data mining algo score to prevent overfit and underfit for the model.</p>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
